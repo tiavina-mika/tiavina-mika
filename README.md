@@ -33,7 +33,7 @@
 	   </td>
 	</tr>
 	<tr height="60">
-		<th align="left">👨‍💻 Frameworks</th>
+		<th align="left">📐 Frameworks</th>
 		<td>
 	   		<a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-%20nodedotjs?logo=nodedotjs&logoColor=%23fff&color=%23339933"></a>
 		   <a href="#"><img alt="Symfony" src="https://img.shields.io/badge/Symfony-%20nodedotjs?logo=symfony&logoColor=%23fff&color=%23000000"></a>
@@ -44,12 +44,21 @@
 	   </td>
 	</tr>
 	<tr height="60">
-		<th align="left">👨‍💻 Databases</th>
+		<th align="left">🎫 Databases</th>
 		<td>
 		  <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%20mongodb?logo=mongodb&logoColor=%23fff&color=%2347A248"></a>
 		  <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%20mysql?logo=mysql&logoColor=%23fff&color=%234479A1"></a>
 		  <a href="#"><img alt="Postgresql" src="https://img.shields.io/badge/Postgresql-%20postgresql?logo=postgresql&logoColor=%23fff&color=%234169E1"></a>
 		  <a href="#"><img alt="ElasticSearch" src="https://img.shields.io/badge/ElasticSearch-%20elasticsearch?logo=elasticsearch&logoColor=%23fff&color=%23005571"></a>
+	   </td>
+	</tr>
+	<tr height="60">
+		<th align="left">🎨 Design</th>
+		<td>
+			<a href="#"><img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-%20adobephotoshop?logo=adobephotoshop&logoColor=%23fff&color=%2331A8FF"></a>
+			<a href="#"><img alt="Illustrator" src="https://img.shields.io/badge/Illustrator-%20adobeillustrator?logo=adobeillustrator&logoColor=%23fff&color=%23FF9A00"></a>
+			<a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-%20figma?logo=figma&logoColor=%23fff&color=%23F24E1E"></a>
+			<a href="#"><img alt="InVision" src="https://img.shields.io/badge/InVision-%20invision?logo=invision&logoColor=%23fff&color=%23FF3366"></a>
 	   </td>
 	</tr>
  </table>
