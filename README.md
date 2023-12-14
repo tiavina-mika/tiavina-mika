@@ -83,5 +83,15 @@
 			<a href="#"><img alt="ios" src="https://img.shields.io/badge/IOS-%20ios?logo=ios&logoColor=%23fff&color=%23000000"></a>
 	   </td>
 	</tr>
+	<tr height="60">
+		<th align="left">☁ Cloud & Hosting</th>
+		<td>
+			<a href="#"><img alt="codesandbox" src="https://img.shields.io/badge/CodeSandbox-%20codesandbox?logo=codesandbox&logoColor=%23fff&color=%23151515"></a>
+			<a href="#"><img alt="netlify" src="https://img.shields.io/badge/Netlify-%20netlify?logo=netlify&logoColor=%23fff&color=%2300C7B7"></a>
+			<a href="#"><img alt="vercel" src="https://img.shields.io/badge/Vercel-%20vercel?logo=vercel&logoColor=%23fff&color=%23000000"></a>
+			<a href="#"><img alt="googlecloud" src="https://img.shields.io/badge/Google Cloud Plateform-%20googlecloud?logo=googlecloud&logoColor=%23fff&color=%234285F4"></a>
+			<a href="#"><img alt="cpanel" src="https://img.shields.io/badge/cPanel-%20cpanel?logo=cpanel&logoColor=%23fff&color=%23FF6C2C"></a>
+	   </td>
+	</tr>
  </table>
 </details>
