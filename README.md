@@ -1,3 +1,12 @@
+
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Full-stack+developer;7%2B+years+of+coding+experience;From+Madagascar+(mg)" alt="Typing SVG" />
+  </a>
+</p>
+
+## Github Stats
 <p align="center">
 	<img width="250" src="https://raw.githubusercontent.com/tiavina-mika/tiavina-mika/master/profile-summary-card-output/github_dark/3-stats.svg">
 	<img width="250" src="https://raw.githubusercontent.com/tiavina-mika/tiavina-mika/master/profile-summary-card-output/github_dark/1-repos-per-language.svg">
@@ -37,7 +46,7 @@
 	   </td>
 	</tr>
 	<tr height="60">
-		<th align="left">🎫 Databases</th>
+		<th align="left">🛢 Databases</th>
 		<td>
 		  <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%20mongodb?logo=mongodb&logoColor=%23fff&color=%2347A248"></a>
 		  <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%20mysql?logo=mysql&logoColor=%23fff&color=%234479A1"></a>
@@ -55,13 +64,23 @@
 	   </td>
 	</tr>
 	<tr height="60">
-		<th align="left">👔 UI Components</th>
+		<th align="left">👔 UI Components & Styles</th>
 		<td>
 			<a href="#"><img alt="MUI" src="https://img.shields.io/badge/MaterialUI-%20mui?logo=mui&logoColor=%23fff&color=%23007FFF"></a>
 			<a href="#"><img alt="styledcomponents" src="https://img.shields.io/badge/styled components-%20styledcomponents?logo=styledcomponents&logoColor=%23fff&color=%23DB7093"></a>
 			<a href="#"><img alt="antdesign" src="https://img.shields.io/badge/Ant Design-%20antdesign?logo=antdesign&logoColor=%23fff&color=%230170FE"></a>
 			<a href="#"><img alt="jss" src="https://img.shields.io/badge/JSS-%20jss?logo=jss&logoColor=%23fff&color=%23F7DF1E"></a>
 			<a href="#"><img alt="materialdesign" src="https://img.shields.io/badge/Material Design-%20materialdesign?logo=materialdesign&logoColor=%23fff&color=%23757575"></a>
+			<a href="#"><img alt="tailwindcss" src="https://img.shields.io/badge/tailwindcss-%20tailwindcss?logo=tailwindcss&logoColor=%23fff&color=%2306B6D4"></a>
+	   </td>
+	</tr>
+	<tr height="60">
+		<th align="left">🌳 OS & Envirenments</th>
+		<td>
+			<a href="#"><img alt="windows" src="https://img.shields.io/badge/Windows 10,11-%20windows?logo=windows&logoColor=%23fff&color=%230078D4"></a>
+			<a href="#"><img alt="macos" src="https://img.shields.io/badge/MacOS-%20macos?logo=macos&logoColor=%23fff&color=%23000000"></a>
+			<a href="#"><img alt="android" src="https://img.shields.io/badge/Android-%20android?logo=android&logoColor=%23fff&color=%233DDC84"></a>
+			<a href="#"><img alt="ios" src="https://img.shields.io/badge/IOS-%20ios?logo=ios&logoColor=%23fff&color=%23000000"></a>
 	   </td>
 	</tr>
  </table>
