@@ -9,9 +9,9 @@
   
 ## Github Stats
 <p align="center">
-<img width="300" src="https://raw.githubusercontent.com/tiavina-mika/tiavina-mika/master/profile-summary-card-output/github_dark/3-stats.svg">
-<img width="300" src="https://raw.githubusercontent.com/tiavina-mika/tiavina-mika/master/profile-summary-card-output/github_dark/1-repos-per-language.svg">
-<img width="300" src="https://raw.githubusercontent.com/tiavina-mika/tiavina-mika/master/profile-summary-card-output/github_dark/2-most-commit-language.svg">
+<img width="250" src="https://raw.githubusercontent.com/tiavina-mika/tiavina-mika/master/profile-summary-card-output/github_dark/3-stats.svg">
+<img width="250" src="https://raw.githubusercontent.com/tiavina-mika/tiavina-mika/master/profile-summary-card-output/github_dark/1-repos-per-language.svg">
+<img width="250" src="https://raw.githubusercontent.com/tiavina-mika/tiavina-mika/master/profile-summary-card-output/github_dark/2-most-commit-language.svg">
 </p>
 <p align="center">
 
@@ -32,4 +32,12 @@
       <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-%20html?logo=html5&logoColor=%23fff&color=%23E34F26"></a>
       <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-%20css?logo=css3&logoColor=%23fff&color=%231572B6"></a>
   </p>
+  <h3>👨‍💻 Frameworks</h3>
+	<p>
+	   <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-%20nodedotjs?logo=nodedotjs&logoColor=%23fff&color=%23339933"></a>
+	   <a href="#"><img alt="Symfony" src="https://img.shields.io/badge/Symfony-%20nodedotjs?logo=symfony&logoColor=%23fff&color=%23000000"></a>
+	   <a href="#"><img alt="NestJs" src="https://img.shields.io/badge/NestJs-%20nestjs?logo=nestjs&logoColor=%23fff&color=%23E0234E"></a>
+	   <a href="#"><img alt="Express" src="https://img.shields.io/badge/Express-%20express?logo=express&logoColor=%23fff&color=%23000000"></a>
+	   <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-%20express?logo=flask&logoColor=%23fff&color=%23000000"></a>
+	</p>
 </details>
