@@ -1,4 +1,3 @@
-
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://git.io/typing-svg">
@@ -17,12 +16,11 @@
 	<img width="900" src="https://raw.githubusercontent.com/tiavina-mika/tiavina-mika/master/profile-summary-card-output/github_dark/0-profile-details.svg">
 </p>
 
-<details> 
-  <summary><h2>🛠️ Tools & skills</h2></summary>
+<h2>🛠️ Tools & skills</h2>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
   <table>
-	<tr height="60">
+	<tr height="54">
 		<th align="left">👨‍💻 Programming and Markup Languages</th>
 		<td>
 		   <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-%20php?logo=php&logoColor=%23fff&color=%23777BB4"></a>
@@ -35,7 +33,7 @@
 	      <a href="#"><img alt="svg" src="https://img.shields.io/badge/svg-%20css?logo=svg&logoColor=%23fff&color=%23FFB13B"></a>
 	   </td>
 	</tr>
-	<tr height="60">
+	<tr height="54">
 		<th align="left">📐 Frameworks</th>
 		<td>
 	   		<a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-%20nodedotjs?logo=nodedotjs&logoColor=%23fff&color=%23339933"></a>
@@ -48,7 +46,7 @@
 		   <a href="#"><img alt="React" src="https://img.shields.io/badge/React-%20express?logo=react&logoColor=%23fff&color=%2361DAFB"></a>
 	   </td>
 	</tr>
-	<tr height="60">
+	<tr height="54">
 		<th align="left">🛢 Databases</th>
 		<td>
 		  <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%20mongodb?logo=mongodb&logoColor=%23fff&color=%2347A248"></a>
@@ -57,7 +55,7 @@
 		  <a href="#"><img alt="ElasticSearch" src="https://img.shields.io/badge/ElasticSearch-%20elasticsearch?logo=elasticsearch&logoColor=%23fff&color=%23005571"></a>
 	   </td>
 	</tr>
-	<tr height="60">
+	<tr height="54">
 		<th align="left">🎨 Design</th>
 		<td>
 			<a href="#"><img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-%20adobephotoshop?logo=adobephotoshop&logoColor=%23fff&color=%2331A8FF"></a>
@@ -66,7 +64,7 @@
 			<a href="#"><img alt="InVision" src="https://img.shields.io/badge/InVision-%20invision?logo=invision&logoColor=%23fff&color=%23FF3366"></a>
 	   </td>
 	</tr>
-	<tr height="60">
+	<tr height="54">
 		<th align="left">👔 UI Components & Styles</th>
 		<td>
 			<a href="#"><img alt="MUI" src="https://img.shields.io/badge/MaterialUI-%20mui?logo=mui&logoColor=%23fff&color=%23007FFF"></a>
@@ -77,7 +75,15 @@
 			<a href="#"><img alt="tailwindcss" src="https://img.shields.io/badge/tailwindcss-%20tailwindcss?logo=tailwindcss&logoColor=%23fff&color=%2306B6D4"></a>
 	   </td>
 	</tr>
-	<tr height="60">
+	<tr height="54">
+		<th align="left">🧷 Webservices</th>
+		<td>
+			<a href="#"><img alt="REST API" src="https://img.shields.io/badge/REST API-%20rest?logoColor=%23fff&color=%234285F4"></a>
+			<a href="#"><img alt="Parse Server" src="https://img.shields.io/badge/Parse Server-%20parse?logoColor=%23fff&color=%230078D4"></a>
+			<a href="#"><img alt="graphql" src="https://img.shields.io/badge/GraphQL-%20graphql?logo=graphql&logoColor=%23fff&color=%23E10098"></a>
+	   </td>
+	</tr>
+	<tr height="54">
 		<th align="left">🌳 OS & Envirenments</th>
 		<td>
 			<a href="#"><img alt="windows" src="https://img.shields.io/badge/Windows 10,11-%20windows?logo=windows&logoColor=%23fff&color=%230078D4"></a>
@@ -86,7 +92,7 @@
 			<a href="#"><img alt="ios" src="https://img.shields.io/badge/IOS-%20ios?logo=ios&logoColor=%23fff&color=%23000000"></a>
 	   </td>
 	</tr>
-	<tr height="60">
+	<tr height="54">
 		<th align="left">☁ Cloud & Hosting</th>
 		<td>
 			<a href="#"><img alt="codesandbox" src="https://img.shields.io/badge/CodeSandbox-%20codesandbox?logo=codesandbox&logoColor=%23fff&color=%23151515"></a>
@@ -94,7 +100,8 @@
 			<a href="#"><img alt="vercel" src="https://img.shields.io/badge/Vercel-%20vercel?logo=vercel&logoColor=%23fff&color=%23000000"></a>
 			<a href="#"><img alt="googlecloud" src="https://img.shields.io/badge/Google Cloud Plateform-%20googlecloud?logo=googlecloud&logoColor=%23fff&color=%234285F4"></a>
 			<a href="#"><img alt="cpanel" src="https://img.shields.io/badge/cPanel-%20cpanel?logo=cpanel&logoColor=%23fff&color=%23FF6C2C"></a>
+			<a href="#"><img alt="notion" src="https://img.shields.io/badge/Notion-%20notion?logo=notion&logoColor=%23fff&color=%23000000"></a>
 	   </td>
 	</tr>
  </table>
-</details>
+
