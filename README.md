@@ -10,24 +10,7 @@
 	</a>
 </p>
 
-<!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-41.5%20million%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
-
-> 📦 429.2 kB Used in GitHub's Storage 
- > 
-> 🏆 7,732 Contributions in the Year 2023
- > 
-> 💼 Opted to Hire
- > 
-> 📜 177 Public Repositories 
- > 
-> 🔑 50 Private Repositories 
- > 
-
- Last Updated on 15/12/2023 10:08:15 UTC
-<!--END_SECTION:waka-->
 
 <!-- 
 ![Visitor Count]([https://profile-counter.glitch.me/tiavina-mika/count.svg](https://github.com/tiavina-mika/tiavina-mika/blob/master/svg/profile/badge.svg))
@@ -142,3 +125,22 @@
 	 <li>🥅 1500W, 200Ah Battery storage (against power outages)</li>
 	 <li>🗼 Fiber optics for high-speed internet connection</li>
  </ul>
+
+ <!--START_SECTION:waka-->
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-41.5%20million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 429.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 7,732 Contributions in the Year 2023
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 177 Public Repositories 
+ > 
+> 🔑 50 Private Repositories 
+ > 
+
+ Last Updated on 15/12/2023 10:08:15 UTC
+<!--END_SECTION:waka-->
