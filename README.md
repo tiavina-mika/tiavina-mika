@@ -145,3 +145,6 @@
  > 
  Last Updated on 15/12/2023 10:08:15 UTC
 <!--END_SECTION:waka-->
+
+<h3 align="left">I am currently reading:</h3>
+<a href="https://www.goodreads.com/user/show/172512891-tiavina-ralainirina"><img src="https://goodreads-readme.vercel.app/api/book?id=28115821" alt="GoodReads reading" width="350" /></a>
