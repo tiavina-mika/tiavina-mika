@@ -1,926 +1,143 @@
-## [🚀 GitHub Profile Views Counter](https://github.com/gayanvoice/github-profile-views-counter)
-**GitHub Profile Views Counter** is an opensource project that powered entirely by  `GitHub Actions` to fetch and store insights of repositories.
-It uses `GitHub API` to fetch the insight data of your repositories and commits changes into a separate repository.
+<p align="center">
+	  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+	<a href="https://git.io/typing-svg">
+	    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Full-stack+developer;7%2B+years+of+coding+experience;From+Madagascar+(mg)" alt="Typing SVG" />
+	  </a>
+</p>
+<p align="center">
+	<a href="https://github.com/tiavina-mika">
+		<img alt="Visitor count" src="https://github.com/tiavina-mika/tiavina-mika/blob/master/svg/profile/badge.svg" />
+	</a>
+</p>
 
-The project created and maintained by [gayanvoice](https://github.com/gayanvoice). Don't forget to follow him on [GitHub](https://github.com/gayanvoice), [Twitter](https://twitter.com/gayanvoice), and [Medium](https://gayanvoice.medium.com/).
+<!-- 
+![Visitor Count]([https://profile-counter.glitch.me/tiavina-mika/count.svg](https://github.com/tiavina-mika/tiavina-mika/blob/master/svg/profile/badge.svg))
+-->
 
-<table>
-	<tr>
-		<th>
-			Repository
-		</th>
-		<th>
-			Last Updated
-		</th>
-		<th>
-			Unique
-		</th>
-		<th>
-			Views
-		</th>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/tiavina-mika/tiavina-mika/tree/master/readme/731164997/year.md">
-				novel-editor-ai
-			</a>
-		</td>
-		<td>
-			2023/12/13 12:00 AM UTC
-		</td>
-		<td>
-			3
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/tiavina-mika/tiavina-mika/raw/master/graph/731164997/small/year.png" height="20"> 8
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/tiavina-mika/tiavina-mika/tree/master/readme/728672698/year.md">
-				actions-menu
-			</a>
-		</td>
-		<td>
-			2023/12/13 12:00 AM UTC
-		</td>
-		<td>
-			3
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/tiavina-mika/tiavina-mika/raw/master/graph/728672698/small/year.png" height="20"> 7
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/tiavina-mika/tiavina-mika/tree/master/readme/728533730/year.md">
-				mui-emotion-starter
-			</a>
-		</td>
-		<td>
-			2023/12/13 12:00 AM UTC
-		</td>
-		<td>
-			5
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/tiavina-mika/tiavina-mika/raw/master/graph/728533730/small/year.png" height="20"> 8
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/tiavina-mika/tiavina-mika/tree/master/readme/702424939/year.md">
-				mui-formik-nested-forms
-			</a>
-		</td>
-		<td>
-			2023/12/13 6:09 AM UTC
-		</td>
-		<td>
-			2
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/tiavina-mika/tiavina-mika/raw/master/graph/702424939/small/year.png" height="20"> 3
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/tiavina-mika/tiavina-mika/tree/master/readme/711746918/year.md">
-				tiptap-editor-mui
-			</a>
-		</td>
-		<td>
-			2023/12/13 12:00 AM UTC
-		</td>
-		<td>
-			15
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/tiavina-mika/tiavina-mika/raw/master/graph/711746918/small/year.png" height="20"> 85
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/tiavina-mika/tiavina-mika/tree/master/readme/647411005/year.md">
-				product-hero-draft
-			</a>
-		</td>
-		<td>
-			2023/12/13 6:09 AM UTC
-		</td>
-		<td>
-			1
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/tiavina-mika/tiavina-mika/raw/master/graph/647411005/small/year.png" height="20"> 2
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/tiavina-mika/tiavina-mika/tree/master/readme/671540196/year.md">
-				draggable-table-scroll
-			</a>
-		</td>
-		<td>
-			2023/12/13 6:09 AM UTC
-		</td>
-		<td>
-			0
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/tiavina-mika/tiavina-mika/raw/master/graph/671540196/small/year.png" height="20"> 0
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/tiavina-mika/tiavina-mika/tree/master/readme/614448616/year.md">
-				mui-sticky-first-column
-			</a>
-		</td>
-		<td>
-			2023/12/13 6:09 AM UTC
-		</td>
-		<td>
-			0
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/tiavina-mika/tiavina-mika/raw/master/graph/614448616/small/year.png" height="20"> 0
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/tiavina-mika/tiavina-mika/tree/master/readme/604512959/year.md">
-				creatable-autocomplete-mui-hook-form
-			</a>
-		</td>
-		<td>
-			2023/12/13 6:09 AM UTC
-		</td>
-		<td>
-			0
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/tiavina-mika/tiavina-mika/raw/master/graph/604512959/small/year.png" height="20"> 0
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/tiavina-mika/tiavina-mika/tree/master/readme/645004838/year.md">
-				autocomplete-with-preview
-			</a>
-		</td>
-		<td>
-			2023/12/13 6:10 AM UTC
-		</td>
-		<td>
-			0
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/tiavina-mika/tiavina-mika/raw/master/graph/645004838/small/year.png" height="20"> 0
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/tiavina-mika/tiavina-mika/tree/master/readme/643159950/year.md">
-				dynamic-table
-			</a>
-		</td>
-		<td>
-			2023/12/13 6:10 AM UTC
-		</td>
-		<td>
-			0
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/tiavina-mika/tiavina-mika/raw/master/graph/643159950/small/year.png" height="20"> 0
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/tiavina-mika/tiavina-mika/tree/master/readme/603690455/year.md">
-				mui-custom-accordion
-			</a>
-		</td>
-		<td>
-			2023/12/13 6:10 AM UTC
-		</td>
-		<td>
-			0
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/tiavina-mika/tiavina-mika/raw/master/graph/603690455/small/year.png" height="20"> 0
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/tiavina-mika/tiavina-mika/tree/master/readme/599624684/year.md">
-				mui-framer-motion-cards-animation
-			</a>
-		</td>
-		<td>
-			2023/12/13 6:10 AM UTC
-		</td>
-		<td>
-			0
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/tiavina-mika/tiavina-mika/raw/master/graph/599624684/small/year.png" height="20"> 0
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/tiavina-mika/tiavina-mika/tree/master/readme/570911465/year.md">
-				mui-checkbox-react-hook-form
-			</a>
-		</td>
-		<td>
-			2023/12/13 6:10 AM UTC
-		</td>
-		<td>
-			0
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/tiavina-mika/tiavina-mika/raw/master/graph/570911465/small/year.png" height="20"> 0
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/tiavina-mika/tiavina-mika/tree/master/readme/585832347/year.md">
-				react-quill-text-editor-w-react-hook-form
-			</a>
-		</td>
-		<td>
-			2023/12/13 6:10 AM UTC
-		</td>
-		<td>
-			0
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/tiavina-mika/tiavina-mika/raw/master/graph/585832347/small/year.png" height="20"> 0
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/tiavina-mika/tiavina-mika/tree/master/readme/571660220/year.md">
-				mui-date-range-react-hook-form
-			</a>
-		</td>
-		<td>
-			2023/12/13 6:10 AM UTC
-		</td>
-		<td>
-			0
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/tiavina-mika/tiavina-mika/raw/master/graph/571660220/small/year.png" height="20"> 0
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/tiavina-mika/tiavina-mika/tree/master/readme/590962104/year.md">
-				card-radio-mui-react-hook-form
-			</a>
-		</td>
-		<td>
-			2023/12/13 6:10 AM UTC
-		</td>
-		<td>
-			0
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/tiavina-mika/tiavina-mika/raw/master/graph/590962104/small/year.png" height="20"> 0
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/tiavina-mika/tiavina-mika/tree/master/readme/500049833/year.md">
-				noteo-nest-server
-			</a>
-		</td>
-		<td>
-			2023/12/13 6:10 AM UTC
-		</td>
-		<td>
-			0
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/tiavina-mika/tiavina-mika/raw/master/graph/500049833/small/year.png" height="20"> 0
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/tiavina-mika/tiavina-mika/tree/master/readme/499385934/year.md">
-				noteo-desktop
-			</a>
-		</td>
-		<td>
-			2023/12/13 6:10 AM UTC
-		</td>
-		<td>
-			0
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/tiavina-mika/tiavina-mika/raw/master/graph/499385934/small/year.png" height="20"> 0
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/tiavina-mika/tiavina-mika/tree/master/readme/486915412/year.md">
-				mui-async-autocomplete
-			</a>
-		</td>
-		<td>
-			2023/12/13 6:11 AM UTC
-		</td>
-		<td>
-			0
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/tiavina-mika/tiavina-mika/raw/master/graph/486915412/small/year.png" height="20"> 0
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/tiavina-mika/tiavina-mika/tree/master/readme/564276086/year.md">
-				stimulate-card-drag-and-drop-in-column
-			</a>
-		</td>
-		<td>
-			2023/12/13 6:11 AM UTC
-		</td>
-		<td>
-			0
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/tiavina-mika/tiavina-mika/raw/master/graph/564276086/small/year.png" height="20"> 0
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/tiavina-mika/tiavina-mika/tree/master/readme/558491602/year.md">
-				mui-checkboxes-table
-			</a>
-		</td>
-		<td>
-			2023/12/13 6:11 AM UTC
-		</td>
-		<td>
-			0
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/tiavina-mika/tiavina-mika/raw/master/graph/558491602/small/year.png" height="20"> 0
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/tiavina-mika/tiavina-mika/tree/master/readme/500740994/year.md">
-				hook-form-confirm-outside-form
-			</a>
-		</td>
-		<td>
-			2023/12/13 6:11 AM UTC
-		</td>
-		<td>
-			0
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/tiavina-mika/tiavina-mika/raw/master/graph/500740994/small/year.png" height="20"> 0
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/tiavina-mika/tiavina-mika/tree/master/readme/516434453/year.md">
-				translate-dayjs-date
-			</a>
-		</td>
-		<td>
-			2023/12/13 6:11 AM UTC
-		</td>
-		<td>
-			0
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/tiavina-mika/tiavina-mika/raw/master/graph/516434453/small/year.png" height="20"> 0
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/tiavina-mika/tiavina-mika/tree/master/readme/182019800/year.md">
-				biblio-hub
-			</a>
-		</td>
-		<td>
-			2023/12/13 6:11 AM UTC
-		</td>
-		<td>
-			1
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/tiavina-mika/tiavina-mika/raw/master/graph/182019800/small/year.png" height="20"> 1
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/tiavina-mika/tiavina-mika/tree/master/readme/578500686/year.md">
-				mui-ts-tailwind-codesandbox-starter
-			</a>
-		</td>
-		<td>
-			2023/12/13 6:11 AM UTC
-		</td>
-		<td>
-			0
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/tiavina-mika/tiavina-mika/raw/master/graph/578500686/small/year.png" height="20"> 0
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/tiavina-mika/tiavina-mika/tree/master/readme/571590862/year.md">
-				mui-datepicker-react-hook-form
-			</a>
-		</td>
-		<td>
-			2023/12/13 6:11 AM UTC
-		</td>
-		<td>
-			0
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/tiavina-mika/tiavina-mika/raw/master/graph/571590862/small/year.png" height="20"> 0
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/tiavina-mika/tiavina-mika/tree/master/readme/567646816/year.md">
-				nodejs-text-encryption
-			</a>
-		</td>
-		<td>
-			2023/12/13 6:11 AM UTC
-		</td>
-		<td>
-			0
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/tiavina-mika/tiavina-mika/raw/master/graph/567646816/small/year.png" height="20"> 0
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/tiavina-mika/tiavina-mika/tree/master/readme/519306206/year.md">
-				validate-malagasy-phone-number-js
-			</a>
-		</td>
-		<td>
-			2023/12/13 6:12 AM UTC
-		</td>
-		<td>
-			0
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/tiavina-mika/tiavina-mika/raw/master/graph/519306206/small/year.png" height="20"> 0
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/tiavina-mika/tiavina-mika/tree/master/readme/513805395/year.md">
-				momentjs-vs-dayjs
-			</a>
-		</td>
-		<td>
-			2023/12/13 6:12 AM UTC
-		</td>
-		<td>
-			0
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/tiavina-mika/tiavina-mika/raw/master/graph/513805395/small/year.png" height="20"> 0
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/tiavina-mika/tiavina-mika/tree/master/readme/464465640/year.md">
-				formik-material-ui-autocomplete
-			</a>
-		</td>
-		<td>
-			2023/12/13 6:12 AM UTC
-		</td>
-		<td>
-			0
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/tiavina-mika/tiavina-mika/raw/master/graph/464465640/small/year.png" height="20"> 0
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/tiavina-mika/tiavina-mika/tree/master/readme/480721538/year.md">
-				mui-chip-w-text-ellipsis
-			</a>
-		</td>
-		<td>
-			2023/12/13 6:12 AM UTC
-		</td>
-		<td>
-			0
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/tiavina-mika/tiavina-mika/raw/master/graph/480721538/small/year.png" height="20"> 0
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/tiavina-mika/tiavina-mika/tree/master/readme/472395481/year.md">
-				material-ui-select-with-chebox
-			</a>
-		</td>
-		<td>
-			2023/12/13 6:12 AM UTC
-		</td>
-		<td>
-			0
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/tiavina-mika/tiavina-mika/raw/master/graph/472395481/small/year.png" height="20"> 0
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/tiavina-mika/tiavina-mika/tree/master/readme/472782096/year.md">
-				custom-mui-date-picker
-			</a>
-		</td>
-		<td>
-			2023/12/13 6:12 AM UTC
-		</td>
-		<td>
-			0
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/tiavina-mika/tiavina-mika/raw/master/graph/472782096/small/year.png" height="20"> 0
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/tiavina-mika/tiavina-mika/tree/master/readme/467542986/year.md">
-				mui-custom-error-tooltip
-			</a>
-		</td>
-		<td>
-			2023/12/13 6:12 AM UTC
-		</td>
-		<td>
-			0
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/tiavina-mika/tiavina-mika/raw/master/graph/467542986/small/year.png" height="20"> 0
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/tiavina-mika/tiavina-mika/tree/master/readme/455528749/year.md">
-				antd-custom-upload-button
-			</a>
-		</td>
-		<td>
-			2023/12/13 6:12 AM UTC
-		</td>
-		<td>
-			0
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/tiavina-mika/tiavina-mika/raw/master/graph/455528749/small/year.png" height="20"> 0
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/tiavina-mika/tiavina-mika/tree/master/readme/432932578/year.md">
-				image-editor-v4
-			</a>
-		</td>
-		<td>
-			2023/12/13 12:00 AM UTC
-		</td>
-		<td>
-			2
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/tiavina-mika/tiavina-mika/raw/master/graph/432932578/small/year.png" height="20"> 2
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/tiavina-mika/tiavina-mika/tree/master/readme/432952748/year.md">
-				react-konva-use-gesture
-			</a>
-		</td>
-		<td>
-			2023/12/13 6:12 AM UTC
-		</td>
-		<td>
-			1
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/tiavina-mika/tiavina-mika/raw/master/graph/432952748/small/year.png" height="20"> 6
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/tiavina-mika/tiavina-mika/tree/master/readme/421317110/year.md">
-				crop-edit-image-with-react-konva-react-image-file-resizer
-			</a>
-		</td>
-		<td>
-			2023/12/13 6:13 AM UTC
-		</td>
-		<td>
-			1
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/tiavina-mika/tiavina-mika/raw/master/graph/421317110/small/year.png" height="20"> 6
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/tiavina-mika/tiavina-mika/tree/master/readme/389876573/year.md">
-				nextjs-parse-server-emotion-boilerplate
-			</a>
-		</td>
-		<td>
-			2023/12/13 12:00 AM UTC
-		</td>
-		<td>
-			11
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/tiavina-mika/tiavina-mika/raw/master/graph/389876573/small/year.png" height="20"> 176
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/tiavina-mika/tiavina-mika/tree/master/readme/413856355/year.md">
-				react-easy-crop-costumization
-			</a>
-		</td>
-		<td>
-			2023/12/13 6:13 AM UTC
-		</td>
-		<td>
-			0
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/tiavina-mika/tiavina-mika/raw/master/graph/413856355/small/year.png" height="20"> 0
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/tiavina-mika/tiavina-mika/tree/master/readme/399011320/year.md">
-				antd-custom-slider
-			</a>
-		</td>
-		<td>
-			2023/12/13 6:13 AM UTC
-		</td>
-		<td>
-			0
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/tiavina-mika/tiavina-mika/raw/master/graph/399011320/small/year.png" height="20"> 0
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/tiavina-mika/tiavina-mika/tree/master/readme/395007643/year.md">
-				custom-antd-images-upload
-			</a>
-		</td>
-		<td>
-			2023/12/13 6:13 AM UTC
-		</td>
-		<td>
-			0
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/tiavina-mika/tiavina-mika/raw/master/graph/395007643/small/year.png" height="20"> 0
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/tiavina-mika/tiavina-mika/tree/master/readme/396675746/year.md">
-				antd-emotion-styles-overrde
-			</a>
-		</td>
-		<td>
-			2023/12/13 6:13 AM UTC
-		</td>
-		<td>
-			0
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/tiavina-mika/tiavina-mika/raw/master/graph/396675746/small/year.png" height="20"> 0
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/tiavina-mika/tiavina-mika/tree/master/readme/318177576/year.md">
-				swell-react-ts-boilerplate
-			</a>
-		</td>
-		<td>
-			2023/12/13 6:13 AM UTC
-		</td>
-		<td>
-			0
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/tiavina-mika/tiavina-mika/raw/master/graph/318177576/small/year.png" height="20"> 0
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/tiavina-mika/tiavina-mika/tree/master/readme/317858027/year.md">
-				dev-express-custom-buttons-action
-			</a>
-		</td>
-		<td>
-			2023/12/13 6:13 AM UTC
-		</td>
-		<td>
-			0
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/tiavina-mika/tiavina-mika/raw/master/graph/317858027/small/year.png" height="20"> 0
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/tiavina-mika/tiavina-mika/tree/master/readme/307922226/year.md">
-				nextjs-typescript-storybook-boilerplate-demo
-			</a>
-		</td>
-		<td>
-			2023/12/13 6:13 AM UTC
-		</td>
-		<td>
-			0
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/tiavina-mika/tiavina-mika/raw/master/graph/307922226/small/year.png" height="20"> 0
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/tiavina-mika/tiavina-mika/tree/master/readme/305277300/year.md">
-				alternate-fadout-display
-			</a>
-		</td>
-		<td>
-			2023/12/13 6:14 AM UTC
-		</td>
-		<td>
-			0
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/tiavina-mika/tiavina-mika/raw/master/graph/305277300/small/year.png" height="20"> 0
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/tiavina-mika/tiavina-mika/tree/master/readme/298204442/year.md">
-				framer-motion-v2-animatedsharedlayout-transition-problem-solved
-			</a>
-		</td>
-		<td>
-			2023/12/13 6:14 AM UTC
-		</td>
-		<td>
-			0
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/tiavina-mika/tiavina-mika/raw/master/graph/298204442/small/year.png" height="20"> 0
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/tiavina-mika/tiavina-mika/tree/master/readme/284932710/year.md">
-				animated-cable
-			</a>
-		</td>
-		<td>
-			2023/12/13 6:14 AM UTC
-		</td>
-		<td>
-			0
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/tiavina-mika/tiavina-mika/raw/master/graph/284932710/small/year.png" height="20"> 0
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/tiavina-mika/tiavina-mika/tree/master/readme/284995532/year.md">
-				infinite-smartphone-animation
-			</a>
-		</td>
-		<td>
-			2023/12/13 6:14 AM UTC
-		</td>
-		<td>
-			0
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/tiavina-mika/tiavina-mika/raw/master/graph/284995532/small/year.png" height="20"> 0
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/tiavina-mika/tiavina-mika/tree/master/readme/243467434/year.md">
-				web-scaping
-			</a>
-		</td>
-		<td>
-			2023/12/13 6:14 AM UTC
-		</td>
-		<td>
-			0
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/tiavina-mika/tiavina-mika/raw/master/graph/243467434/small/year.png" height="20"> 0
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/tiavina-mika/tiavina-mika/tree/master/readme/226882583/year.md">
-				loader-on-wheel-event-svg
-			</a>
-		</td>
-		<td>
-			2023/12/13 6:14 AM UTC
-		</td>
-		<td>
-			0
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/tiavina-mika/tiavina-mika/raw/master/graph/226882583/small/year.png" height="20"> 0
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/tiavina-mika/tiavina-mika/tree/master/readme/236732747/year.md">
-				my-animated-logo
-			</a>
-		</td>
-		<td>
-			2023/12/13 6:14 AM UTC
-		</td>
-		<td>
-			0
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/tiavina-mika/tiavina-mika/raw/master/graph/236732747/small/year.png" height="20"> 0
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/tiavina-mika/tiavina-mika/tree/master/readme/196334207/year.md">
-				EcoMalagasyPlast
-			</a>
-		</td>
-		<td>
-			2023/12/13 6:14 AM UTC
-		</td>
-		<td>
-			0
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/tiavina-mika/tiavina-mika/raw/master/graph/196334207/small/year.png" height="20"> 0
-		</td>
-	</tr>
-</table>
+<h2>📈 Github Stats</h2>
+<p align="center">
+	<img width="250" src="https://raw.githubusercontent.com/tiavina-mika/tiavina-mika/master/profile-summary-card-output/github_dark/3-stats.svg">
+	<img width="250" src="https://raw.githubusercontent.com/tiavina-mika/tiavina-mika/master/profile-summary-card-output/github_dark/1-repos-per-language.svg">
+	<img width="250" src="https://raw.githubusercontent.com/tiavina-mika/tiavina-mika/master/profile-summary-card-output/github_dark/2-most-commit-language.svg">
+</p>
 
-<small><i>Last updated on 2023/12/15 12:21 PM UTC</i></small>
+<p align="center">
+	<img width="900" src="https://raw.githubusercontent.com/tiavina-mika/tiavina-mika/master/profile-summary-card-output/github_dark/0-profile-details.svg">
+</p>
 
-## ✂️Copy and 📋 Paste
-### Total Views Badge
-[![Image of https://github.com/tiavina-mika/tiavina-mika](https://github.com/tiavina-mika/tiavina-mika/blob/master/svg/profile/badge.svg)](https://github.com/tiavina-mika/tiavina-mika)
+<h2>🛠️ Tools & skills</h2>
+  <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
-```readme
-[![Image of https://github.com/tiavina-mika/tiavina-mika](https://github.com/tiavina-mika/tiavina-mika/blob/master/svg/profile/badge.svg)](https://github.com/tiavina-mika/tiavina-mika)
-```
-[**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
-## ⛔ DO NOT
-- Do not commit any changes to `./cache` directory. This feature helps to integrity of the records for visitors.
-- The app will automatically stop measuring insights until you revoke those commits.
-## 📦 Third party
+  <table>
+	<tr height="54">
+		<th align="left">👨‍💻 Programming and Markup Languages</th>
+		<td>
+		   <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-%20php?logo=php&logoColor=%23fff&color=%23777BB4"></a>
+	      <a href="#"><img alt="Javascript" src="https://img.shields.io/badge/Javascript-%20js?logo=javascript&logoColor=%23fff&color=%23F7DF1E"></a>
+	      <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%20ts?logo=typescript&logoColor=%23fff&color=%233178C6"></a>
+	      <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-%20py?logo=python&logoColor=%23fff&color=%233776AB"></a>
+	      <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-%20html?logo=html5&logoColor=%23fff&color=%23E34F26"></a>
+	      <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-%20css?logo=css3&logoColor=%23fff&color=%231572B6"></a>   
+	      <a href="#"><img alt="markdown" src="https://img.shields.io/badge/markdown-%20css?logo=markdown&logoColor=%23fff&color=%23000000"></a>
+	      <a href="#"><img alt="svg" src="https://img.shields.io/badge/svg-%20css?logo=svg&logoColor=%23fff&color=%23FFB13B"></a>
+	   </td>
+	</tr>
+	<tr height="54">
+		<th align="left">📐 Frameworks</th>
+		<td>
+	   		<a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-%20nodedotjs?logo=nodedotjs&logoColor=%23fff&color=%23339933"></a>
+		   <a href="#"><img alt="Symfony" src="https://img.shields.io/badge/Symfony-%20nodedotjs?logo=symfony&logoColor=%23fff&color=%23000000"></a>
+		   <a href="#"><img alt="NestJs" src="https://img.shields.io/badge/NestJs-%20nestjs?logo=nestjs&logoColor=%23fff&color=%23E0234E"></a>
+		   <a href="#"><img alt="NextJs" src="https://img.shields.io/badge/NextJs-%20nextdotjs?logo=nextdotjs&logoColor=%23fff&color=%23000000"></a>
+		   <a href="#"><img alt="Express" src="https://img.shields.io/badge/Express-%20express?logo=express&logoColor=%23fff&color=%23000000"></a>
+		   <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-%20express?logo=flask&logoColor=%23fff&color=%23000000"></a>
+		   <a href="#"><img alt="Expo" src="https://img.shields.io/badge/Expo-%20express?logo=expo&logoColor=%23fff&color=%23000000"></a>
+		   <a href="#"><img alt="React" src="https://img.shields.io/badge/React-%20express?logo=react&logoColor=%23fff&color=%2361DAFB"></a>
+	   </td>
+	</tr>
+	<tr height="54">
+		<th align="left">🛢 Databases</th>
+		<td>
+		  <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%20mongodb?logo=mongodb&logoColor=%23fff&color=%2347A248"></a>
+		  <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%20mysql?logo=mysql&logoColor=%23fff&color=%234479A1"></a>
+		  <a href="#"><img alt="Postgresql" src="https://img.shields.io/badge/Postgresql-%20postgresql?logo=postgresql&logoColor=%23fff&color=%234169E1"></a>
+		  <a href="#"><img alt="ElasticSearch" src="https://img.shields.io/badge/ElasticSearch-%20elasticsearch?logo=elasticsearch&logoColor=%23fff&color=%23005571"></a>
+	   </td>
+	</tr>
+	<tr height="54">
+		<th align="left">🎨 Design</th>
+		<td>
+			<a href="#"><img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-%20adobephotoshop?logo=adobephotoshop&logoColor=%23fff&color=%2331A8FF"></a>
+			<a href="#"><img alt="Illustrator" src="https://img.shields.io/badge/Illustrator-%20adobeillustrator?logo=adobeillustrator&logoColor=%23fff&color=%23FF9A00"></a>
+			<a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-%20figma?logo=figma&logoColor=%23fff&color=%23F24E1E"></a>
+			<a href="#"><img alt="InVision" src="https://img.shields.io/badge/InVision-%20invision?logo=invision&logoColor=%23fff&color=%23FF3366"></a>
+	   </td>
+	</tr>
+	<tr height="54">
+		<th align="left">👔 UI Components & Styles</th>
+		<td>
+			<a href="#"><img alt="MUI" src="https://img.shields.io/badge/MaterialUI-%20mui?logo=mui&logoColor=%23fff&color=%23007FFF"></a>
+			<a href="#"><img alt="styledcomponents" src="https://img.shields.io/badge/styled components-%20styledcomponents?logo=styledcomponents&logoColor=%23fff&color=%23DB7093"></a>
+			<a href="#"><img alt="antdesign" src="https://img.shields.io/badge/Ant Design-%20antdesign?logo=antdesign&logoColor=%23fff&color=%230170FE"></a>
+			<a href="#"><img alt="jss" src="https://img.shields.io/badge/JSS-%20jss?logo=jss&logoColor=%23fff&color=%23F7DF1E"></a>
+			<a href="#"><img alt="materialdesign" src="https://img.shields.io/badge/Material Design-%20materialdesign?logo=materialdesign&logoColor=%23fff&color=%23757575"></a>
+			<a href="#"><img alt="tailwindcss" src="https://img.shields.io/badge/tailwindcss-%20tailwindcss?logo=tailwindcss&logoColor=%23fff&color=%2306B6D4"></a>
+	   </td>
+	</tr>
+	<tr height="54">
+		<th align="left">🧷 Webservices</th>
+		<td>
+			<a href="#"><img alt="REST API" src="https://img.shields.io/badge/REST API-%20rest?logoColor=%23fff&color=%234285F4"></a>
+			<a href="#"><img alt="Parse Server" src="https://img.shields.io/badge/Parse Server-%20parse?logoColor=%23fff&color=%230078D4"></a>
+			<a href="#"><img alt="graphql" src="https://img.shields.io/badge/GraphQL-%20graphql?logo=graphql&logoColor=%23fff&color=%23E10098"></a>
+	   </td>
+	</tr>
+	<tr height="54">
+		<th align="left">🌳 OS & Envirenments</th>
+		<td>
+			<a href="#"><img alt="windows" src="https://img.shields.io/badge/Windows 10,11-%20windows?logo=windows&logoColor=%23fff&color=%230078D4"></a>
+			<a href="#"><img alt="macos" src="https://img.shields.io/badge/MacOS-%20macos?logo=macos&logoColor=%23fff&color=%23000000"></a>
+			<a href="#"><img alt="android" src="https://img.shields.io/badge/Android-%20android?logo=android&logoColor=%23fff&color=%233DDC84"></a>
+			<a href="#"><img alt="ios" src="https://img.shields.io/badge/IOS-%20ios?logo=ios&logoColor=%23fff&color=%23000000"></a>
+	   </td>
+	</tr>
+	<tr height="54">
+		<th align="left">☁ Cloud & Hosting</th>
+		<td>
+			<a href="#"><img alt="codesandbox" src="https://img.shields.io/badge/CodeSandbox-%20codesandbox?logo=codesandbox&logoColor=%23fff&color=%23151515"></a>
+			<a href="#"><img alt="netlify" src="https://img.shields.io/badge/Netlify-%20netlify?logo=netlify&logoColor=%23fff&color=%2300C7B7"></a>
+			<a href="#"><img alt="vercel" src="https://img.shields.io/badge/Vercel-%20vercel?logo=vercel&logoColor=%23fff&color=%23000000"></a>
+			<a href="#"><img alt="googlecloud" src="https://img.shields.io/badge/Google Cloud Plateform-%20googlecloud?logo=googlecloud&logoColor=%23fff&color=%234285F4"></a>
+			<a href="#"><img alt="cpanel" src="https://img.shields.io/badge/cPanel-%20cpanel?logo=cpanel&logoColor=%23fff&color=%23FF6C2C"></a>
+			<a href="#"><img alt="notion" src="https://img.shields.io/badge/Notion-%20notion?logo=notion&logoColor=%23fff&color=%23000000"></a>
+	   </td>
+	</tr>
+ </table>
+ <h2>🏗 Materials</h2>
+ <ul>
+	 <li>💻 ASUS Rog G751, i7-4710HQ, 16G 256SSD+1THDD, Nvidia GeForce GTX 970M, 17", Windows 10</li>
+	 <li>🖥 i5-9400F, 16G 256SSD+1THDD, Nvidia GeForce GTX 1080Ti, 32", Windows 11</li>
+	 <li>🖥 Mac Mini, i5-8000, 16G 256SSD, 23", macOS Catalina</li>
+	 <li>📱 iPhone X, Apple</li>
+	 <li>📱 Android 12, Xiami Redmi </li>
+	 <li>🥅 1500W, 200Ah Battery storage (against power outages)</li>
+	 <li>🗼 Fiber optics for high-speed internet connection</li>
+ </ul>
 
-- [@octokit/rest](https://www.npmjs.com/package/@octokit/rest) - Send REST API requests to GitHub.
-- [fs-extra](https://www.npmjs.com/package/fs-extra) - Creating directories and files.
-- [simple-git](https://www.npmjs.com/package/simple-git) - Handling Git commands.
-- [node-chart-exec](https://www.npmjs.com/package/node-chart-exec) - Generate graphs.
-## 📄 License
-- Powered by: [GitHub Profile Views Counter](https://github.com/gayanvoice/github-profile-views-counter)
-- Code: [MIT](./LICENSE) © [gayanvoice](https://github.com/gayanvoice)
-- Data in the `./cache` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
+<!--START_SECTION:waka-->
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-41.5%20million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 429.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 7,732 Contributions in the Year 2023
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 177 Public Repositories 
+ > 
+> 🔑 50 Private Repositories 
+ > 
+ Last Updated on 15/12/2023 10:08:15 UTC
+<!--END_SECTION:waka-->
