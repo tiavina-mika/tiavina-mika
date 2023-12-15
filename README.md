@@ -113,3 +113,12 @@
 	   </td>
 	</tr>
  </table>
+ <h2>🏗 Materials</h2>
+ <ul>
+	 <li>💻 i7-4710HQ, 16G 256SSD+1THDD, Nvidia GeForce GTX 970M, 17", Windows 10, ASUS Rog</li>
+	 <li>🖥 i5-9400F, 16G 256SSD+1THDD, Nvidia GeForce GTX 1080Ti, 32", Windows 11</li>
+	 <li>🖥 i5-8000, 16G 256SSD, 23", macOS Catalina, Mac Mini</li>
+	 <li>📱 iPhone X, Apple</li>
+	 <li>📱 Android 12, Xiami Redmi </li>
+	 <li>🥅 1500W, 200Ah Battery storage (against power outages)</li>
+ </ul>
