@@ -4,11 +4,6 @@
 	    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Full-stack+developer;7%2B+years+of+coding+experience;From+Madagascar+(mg)" alt="Typing SVG" />
 	  </a>
 </p>
-<p align="center">
-	<a href="https://github.com/tiavina-mika">
-		<img alt="Visitor count" src="https://github.com/tiavina-mika/tiavina-mika/blob/master/svg/profile/badge.svg" />
-	</a>
-</p>
 
 <!-- 
 ![Visitor Count]([https://profile-counter.glitch.me/tiavina-mika/count.svg](https://github.com/tiavina-mika/tiavina-mika/blob/master/svg/profile/badge.svg))
