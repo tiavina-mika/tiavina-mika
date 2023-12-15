@@ -1,7 +1,13 @@
 <p align="center">
 	  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+	<a href="https://www.linkedin.com/in/tiavina-michael-ralainirina">
+	    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1&pause=1000&color=40C463&center=true&repeat=false&random=false&width=435&lines=Tiavina+Michael+Ralainirina" alt="Tiavina Michael Ralainirina" />
+	</a>
+</p>
+<p align="center">
+	  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 	<a href="https://git.io/typing-svg">
-	    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=40C463&center=true&random=false&width=435&lines=Full-stack+Developer;7%2B+years+of+coding+experience;From+Madagascar+(mg)" alt="Typing SVG" />
+	    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=40C463&center=true&random=false&width=435&lines=Full-stack+Developer;7%2B+years+of+coding+experience;From+Madagascar+(mg)" alt="Typing SVG" />
 	  </a>
 </p>
 
