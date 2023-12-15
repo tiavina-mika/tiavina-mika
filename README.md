@@ -5,6 +5,9 @@
   </a>
 </p>
 
+# Visitor Count
+![Visitor Count](https://profile-counter.glitch.me/tiavina-mika/count.svg)
+
 ## Github Stats
 <p align="center">
 	<img width="250" src="https://raw.githubusercontent.com/tiavina-mika/tiavina-mika/master/profile-summary-card-output/github_dark/3-stats.svg">
