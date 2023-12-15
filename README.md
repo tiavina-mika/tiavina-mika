@@ -16,7 +16,7 @@
 	    <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-%20js?logo=linkedin&logoColor=%23fff&color=%230A66C2" />
 	</a>
 	<a href="https://www.youtube.com/channel/UC0CfOprE7AOXQqeFhS2XUIQ">
-	   <img alt="youtube" src="https://img.shields.io/badge/LinkedIn-%20js?logo=youtube&logoColor=%23fff&color=%23FF0000" />
+	   <img alt="youtube" src="https://img.shields.io/badge/Youtube-%20js?logo=youtube&logoColor=%23fff&color=%23FF0000" />
 	</a>
 </p>
 
