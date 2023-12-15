@@ -10,6 +10,9 @@
 	</a>
 </p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!-- 
 ![Visitor Count]([https://profile-counter.glitch.me/tiavina-mika/count.svg](https://github.com/tiavina-mika/tiavina-mika/blob/master/svg/profile/badge.svg))
 -->
