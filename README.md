@@ -5,6 +5,7 @@
 	  </a>
 </p>
 
+
 <!-- 
 ![Visitor Count]([https://profile-counter.glitch.me/tiavina-mika/count.svg](https://github.com/tiavina-mika/tiavina-mika/blob/master/svg/profile/badge.svg))
 -->
@@ -146,5 +147,9 @@
  Last Updated on 15/12/2023 10:08:15 UTC
 <!--END_SECTION:waka-->
 
-<h3 align="left">I am currently reading:</h3>
-<a href="https://www.goodreads.com/user/show/172512891-tiavina-ralainirina"><img src="https://goodreads-readme.vercel.app/api/book?id=28115821" alt="GoodReads reading" width="350" /></a>
+<br />
+<h2>📖 I am currently reading</h2>
+<a href="https://www.goodreads.com/user/show/172512891?ref=nav_profile_l">
+	<img width="200" alt="book" src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1449484060i/28115821.jpg" />
+</a>
+
