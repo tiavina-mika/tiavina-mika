@@ -13,7 +13,9 @@
 <!-- 
 ![Visitor Count]([https://profile-counter.glitch.me/tiavina-mika/count.svg](https://github.com/tiavina-mika/tiavina-mika/blob/master/svg/profile/badge.svg))
 -->
+<br />
 
+<!-- Github Stats -->
 <h2>📈 Github Stats</h2>
 <p align="center">
 	<img width="250" src="https://raw.githubusercontent.com/tiavina-mika/tiavina-mika/master/profile-summary-card-output/github_dark/3-stats.svg">
@@ -113,8 +115,11 @@
 	   </td>
 	</tr>
  </table>
- <h2>🏗 Materials</h2>
- <ul>
+
+<!-- Materials -->
+<br />
+<h2>🏗 Materials</h2>
+<ul>
 	 <li>💻 ASUS Rog G751, i7-4710HQ, 16G 256SSD+1THDD, Nvidia GeForce GTX 970M, 17", Windows 10</li>
 	 <li>🖥 i5-9400F, 16G 256SSD+1THDD, Nvidia GeForce GTX 1080Ti, 32", Windows 11</li>
 	 <li>🖥 Mac Mini, i5-8000, 16G 256SSD, 23", macOS Catalina</li>
@@ -122,7 +127,11 @@
 	 <li>📱 Android 12, Xiami Redmi </li>
 	 <li>🥅 1500W, 200Ah Battery storage (against power outages)</li>
 	 <li>🗼 Fiber optics for high-speed internet connection</li>
- </ul>
+</ul>
+
+<!-- Daily Coding Stats -->
+<br />
+<h2>📊 Daily Coding Stats</h2>
 
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-41.5%20million%20lines%20of%20code-blue)
