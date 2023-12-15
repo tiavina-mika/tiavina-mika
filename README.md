@@ -10,7 +10,15 @@
 	    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=40C463&center=true&random=false&width=435&lines=Full-stack+Developer;7%2B+years+of+coding+experience;From+Madagascar+(mg)" alt="Typing SVG" />
 	  </a>
 </p>
-
+<p align="center">
+	  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+	<a href="https://www.linkedin.com/in/tiavina-michael-ralainirina">
+	    <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-%20js?logo=linkedin&logoColor=%23fff&color=%230A66C2" />
+	</a>
+	<a href="https://www.youtube.com/channel/UC0CfOprE7AOXQqeFhS2XUIQ">
+	   <img alt="youtube" src="https://img.shields.io/badge/LinkedIn-%20js?logo=youtube&logoColor=%23fff&color=%23FF0000" />
+	</a>
+</p>
 
 <!-- 
 ![Visitor Count]([https://profile-counter.glitch.me/tiavina-mika/count.svg](https://github.com/tiavina-mika/tiavina-mika/blob/master/svg/profile/badge.svg))
