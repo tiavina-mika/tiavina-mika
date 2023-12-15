@@ -134,9 +134,9 @@
  </table>
  <h2>🏗 Materials</h2>
  <ul>
-	 <li>💻 ASUS Rog G751, i7-4710HQ, 16G 256SSD+1THDD, Nvidia GeForce GTX 970M, 17", Windows 10</li>
-	 <li>🖥 i5-9400F, 16G 256SSD+1THDD, Nvidia GeForce GTX 1080Ti, 32", Windows 11</li>
-	 <li>🖥 Mac Mini, i5-8000, 16G 256SSD, 23", macOS Catalina</li>
+	 <li>💻 ASUS Rog G751, i7-4710HQ, 16Go 256Go SSD+1To HDD, Nvidia GeForce GTX 970M, 17", Windows 10</li>
+	 <li>🖥 i5-9400F, 16Go 256Go SSD+1To HDD, Nvidia GeForce GTX 1080Ti, 32", Windows 11</li>
+	 <li>🖥 Mac Mini, i5-8000, 16Go 256Go SSD, 23", macOS Catalina</li>
 	 <li>📱 iPhone X, Apple</li>
 	 <li>📱 Android 12, Xiami Redmi </li>
 	 <li>🥅 1500W, 200Ah Battery storage (against power outages)</li>
