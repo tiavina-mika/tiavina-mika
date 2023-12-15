@@ -1,9 +1,10 @@
-name: wakatime-stats
+name: Waka Readme
 
 on:
   schedule:
-    - cron: '0 12 * * *'
-
+    # Runs at 12am IST
+    - cron: '30 18 * * *'
+  workflow_dispatch:
 jobs:
   update-readme:
     name: Update Readme with Metrics
