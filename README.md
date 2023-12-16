@@ -147,15 +147,15 @@
 <h2>📊 Daily Coding Stats</h2>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-426-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-469-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-41.8%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 429.9 kB Used in GitHub's Storage 
+> 📦 430.0 kB Used in GitHub's Storage 
  > 
-> 🏆 7,868 Contributions in the Year 2023
+> 🏆 7,875 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -163,20 +163,42 @@
  > 
 > 🔑 50 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                30537 commits       ██████░░░░░░░░░░░░░░░░░░░   23.71 % 
+🌆 Daytime                75928 commits       ███████████████░░░░░░░░░░   58.96 % 
+🌃 Evening                21837 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
+🌙 Night                  476 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Moscow
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               127 repos           █████████████░░░░░░░░░░░░   52.92 % 
-TypeScript               76 repos            ████████░░░░░░░░░░░░░░░░░   31.67 % 
-HTML                     20 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+JavaScript               127 repos           █████████████░░░░░░░░░░░░   53.14 % 
+TypeScript               76 repos            ████████░░░░░░░░░░░░░░░░░   31.80 % 
+HTML                     19 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
 Java                     4 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
-CSS                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+CSS                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 ```
 
 
 
 
- Last Updated on 15/12/2023 16:25:13 UTC
+ Last Updated on 16/12/2023 19:26:55 UTC
 <!--END_SECTION:waka-->
 
 <br />
