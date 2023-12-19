@@ -147,17 +147,17 @@
 <h2>📊 Daily Coding Stats</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2028%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-477-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-497-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-42.4%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-42.8%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 430.2 kB Used in GitHub's Storage 
+> 📦 430.3 kB Used in GitHub's Storage 
  > 
-> 🏆 8,395 Contributions in the Year 2023
+> 🏆 8,621 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -168,10 +168,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                31643 commits       ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
-🌆 Daytime                78786 commits       ███████████████░░░░░░░░░░   59.09 % 
-🌃 Evening                22438 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
-🌙 Night                  465 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+🌞 Morning                32043 commits       ██████░░░░░░░░░░░░░░░░░░░   23.69 % 
+🌆 Daytime                79960 commits       ███████████████░░░░░░░░░░   59.11 % 
+🌃 Evening                22784 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
+🌙 Night                  476 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 ```
 
 
@@ -179,14 +179,6 @@
 
 ```text
 🕑︎ Time Zone: Europe/Moscow
-
-💬 Programming Languages: 
-Text                     54 mins             █████████████████████████   98.98 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
-
-🐱‍💻 Projects: 
-i-tatitra-server         52 mins             ████████████████████████░   95.35 % 
-i-tatitra-client         2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -202,7 +194,7 @@ CSS                      2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 18/12/2023 19:24:51 UTC
+ Last Updated on 19/12/2023 19:21:38 UTC
 <!--END_SECTION:waka-->
 
 <br />
