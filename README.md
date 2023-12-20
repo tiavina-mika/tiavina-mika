@@ -147,30 +147,30 @@
 <h2>📊 Daily Coding Stats</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2031%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-497-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-501-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-42.8%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-43.1%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 430.3 kB Used in GitHub's Storage 
+> 📦 430.4 kB Used in GitHub's Storage 
  > 
-> 🏆 8,621 Contributions in the Year 2023
+> 🏆 8,795 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
-> 📜 177 Public Repositories 
+> 📜 179 Public Repositories 
  > 
 > 🔑 50 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                32043 commits       ██████░░░░░░░░░░░░░░░░░░░   23.69 % 
-🌆 Daytime                79960 commits       ███████████████░░░░░░░░░░   59.11 % 
-🌃 Evening                22784 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
+🌞 Morning                32289 commits       ██████░░░░░░░░░░░░░░░░░░░   23.64 % 
+🌆 Daytime                80862 commits       ███████████████░░░░░░░░░░   59.19 % 
+🌃 Evening                22986 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
 🌙 Night                  476 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 ```
 
@@ -184,17 +184,17 @@
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               127 repos           █████████████░░░░░░░░░░░░   53.14 % 
-TypeScript               76 repos            ████████░░░░░░░░░░░░░░░░░   31.80 % 
-HTML                     19 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
-Java                     4 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
-CSS                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+JavaScript               127 repos           █████████████░░░░░░░░░░░░   52.70 % 
+TypeScript               78 repos            ████████░░░░░░░░░░░░░░░░░   32.37 % 
+HTML                     19 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
+Java                     4 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+CSS                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
 ```
 
 
 
 
- Last Updated on 19/12/2023 19:21:38 UTC
+ Last Updated on 20/12/2023 19:26:23 UTC
 <!--END_SECTION:waka-->
 
 <br />
