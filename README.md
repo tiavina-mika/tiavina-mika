@@ -43,7 +43,7 @@
 	<img width="900" src="https://raw.githubusercontent.com/tiavina-mika/tiavina-mika/master/profile-summary-card-output/github_dark/0-profile-details.svg">
 </p>
 
-<h2>🛠️ Tools & skills</h2>
+<h2>🛠️ Tech, tools & skills</h2>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
   <table>
