@@ -15,7 +15,7 @@
 	<a href="https://www.linkedin.com/in/tiavina-michael-ralainirina">
 	    <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-%20js?logo=linkedin&logoColor=%23fff&color=%230A66C2" />
 	</a>
-	<a href="https://www.youtube.com/channel/UC0CfOprE7AOXQqeFhS2XUIQ">
+	<a href="https://www.youtube.com/@rainivoanjo">
 	   <img alt="youtube" src="https://img.shields.io/badge/Youtube-%20js?logo=youtube&logoColor=%23fff&color=%23FF0000" />
 	</a>
 	<a href="https://www.goodreads.com/user/show/172512891-tiavina-ralainirina">
