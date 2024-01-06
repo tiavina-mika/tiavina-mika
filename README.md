@@ -206,3 +206,10 @@ CSS                      2 repos             ░░░░░░░░░░░�
 	<img width="200" alt="book" src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1449484060i/28115821.jpg" />
 </a>
 
+<br />
+<br />
+<h2>
+	<i><q>Make it work, make it right, make it fast. In that order.</q></i>
+</h2>
+<p>- Kent Beck</p>
+
