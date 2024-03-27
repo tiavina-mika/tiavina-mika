@@ -40,9 +40,11 @@
 	<img width="250" src="https://raw.githubusercontent.com/tiavina-mika/tiavina-mika/master/profile-summary-card-output/github_dark/2-most-commit-language.svg">
 </p>
 
+<!--
 <p align="center">
 	<img width="900" src="https://raw.githubusercontent.com/tiavina-mika/tiavina-mika/master/profile-summary-card-output/github_dark/0-profile-details.svg">
 </p>
+-->
 
 <h2>🛠️ Tech, tools & skills</h2>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
