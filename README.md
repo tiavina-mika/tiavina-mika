@@ -23,6 +23,7 @@
 	</a>
 </p>
 
+
 <!-- Trophy -->
 <h2>🏆 Trophy</h2>
 <a href="https://mg-github-users.pages.dev/">1st GitHub Users By Public Contributions in Madagascar</a>
