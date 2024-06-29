@@ -25,13 +25,35 @@
 
 
 <!-- Trophy -->
-<h2>🏆 Trophy</h2>
+<h2>🏆 Awards</h2>
 <a href="https://mg-github-users.pages.dev/">1st GitHub Users By Public Contributions in Madagascar</a>
 <br />
 <a href="https://mg-github-users.pages.dev/total">1st GitHub Users By Total Contributions in Madagascar</a>
 
+<br />
+
+<!-- Trophy -->
+<h2>✍ Packages I created</h2>
+<a href="https://www.npmjs.com/package/mui-tiptap-editor">mui-tiptap-editor</a>
+<br />
+<a href="https://www.npmjs.com/package/tiptap-parser">tiptap-parser</a>
+<br />
+<a href="https://www.npmjs.com/package/check-password-complexity">check-password-complexity</a>
+<br />
+<a href="https://www.npmjs.com/package/mui-password-strength-input">mui-password-strength-input</a>
+<br />
+<a href="https://www.npmjs.com/package/password-strength-input">password-strength-input</a>
+<br />
+<a href="https://www.npmjs.com/package/mui-password-checklist">mui-password-checklist</a>
+<br />
+<a href="https://www.npmjs.com/package/validate-password-checklist">validate-password-checklist</a>
+<br />
+<a href="https://www.npmjs.com/package/password-checklist-input">password-checklist-input</a>
+<br />
+
 
 <br />
+
 <!-- Github Stats -->
 <h2>📈 Github Stats</h2>
 <p align="center">
