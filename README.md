@@ -202,6 +202,7 @@ CSS                      2 repos             ░░░░░░░░░░░�
  Last Updated on 26/03/2024 19:28:25 UTC
 <!--END_SECTION:waka-->
 
+<br />
 <h2>💬 Mentions and discussions</h2>
 
 By the creator of [Material UI](https://github.com/mui/mui-x/issues/513)
