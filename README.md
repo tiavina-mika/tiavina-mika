@@ -34,21 +34,21 @@
 
 <!-- Trophy -->
 <h2>✍ Packages I created</h2>
-<a href="https://www.npmjs.com/package/mui-tiptap-editor">mui-tiptap-editor</a>
+✅ <a href="https://www.npmjs.com/package/mui-tiptap-editor"> mui-tiptap-editor</a>
 <br />
-<a href="https://www.npmjs.com/package/tiptap-parser">tiptap-parser</a>
+✅ <a href="https://www.npmjs.com/package/tiptap-parser">tiptap-parser</a>
 <br />
-<a href="https://www.npmjs.com/package/check-password-complexity">check-password-complexity</a>
+✅ <a href="https://www.npmjs.com/package/check-password-complexity">check-password-complexity</a>
 <br />
-<a href="https://www.npmjs.com/package/mui-password-strength-input">mui-password-strength-input</a>
+✅ <a href="https://www.npmjs.com/package/mui-password-strength-input">mui-password-strength-input</a>
 <br />
-<a href="https://www.npmjs.com/package/password-strength-input">password-strength-input</a>
+✅ <a href="https://www.npmjs.com/package/password-strength-input">password-strength-input</a>
 <br />
-<a href="https://www.npmjs.com/package/mui-password-checklist">mui-password-checklist</a>
+✅ <a href="https://www.npmjs.com/package/mui-password-checklist">mui-password-checklist</a>
 <br />
-<a href="https://www.npmjs.com/package/validate-password-checklist">validate-password-checklist</a>
+✅ <a href="https://www.npmjs.com/package/validate-password-checklist">validate-password-checklist</a>
 <br />
-<a href="https://www.npmjs.com/package/password-checklist-input">password-checklist-input</a>
+✅ <a href="https://www.npmjs.com/package/password-checklist-input">password-checklist-input</a>
 <br />
 
 
