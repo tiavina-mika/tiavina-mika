@@ -24,7 +24,7 @@
 </p>
 
 
-<!-- Trophy -->
+<!-- Awards -->
 <h2>🏆 Awards</h2>
 <a href="https://mg-github-users.pages.dev/">1st GitHub Users By Public Contributions in Madagascar</a>
 <br />
@@ -32,35 +32,26 @@
 
 <br />
 
-<!-- Trophy -->
+<!-- Packages -->
 <h2>✍ Packages I created</h2>
+<p align="left">
 <a href="https://www.npmjs.com/package/mui-tiptap-editor"><img alt="NPM Downloads" src="https://img.shields.io/npm/dm/mui-tiptap-editor?label=mui-tiptap-editor">
 </a>
-<br />
 <a href="https://www.npmjs.com/package/tiptap-parser"><img alt="NPM Downloads" src="https://img.shields.io/npm/dm/tiptap-parser?label=tiptap-parser">
 </a>
-<br />
 <a href="https://www.npmjs.com/package/check-password-complexity"><img alt="NPM Downloads" src="https://img.shields.io/npm/dm/check-password-complexity?label=check-password-complexity">
 </a>
-<br />
 <a href="https://www.npmjs.com/package/mui-password-strength-input"><img alt="NPM Downloads" src="https://img.shields.io/npm/dm/mui-password-strength-input?label=mui-password-strength-input">
 </a>
-<br />
 <a href="https://www.npmjs.com/package/password-strength-input"><img alt="NPM Downloads" src="https://img.shields.io/npm/dm/password-strength-input?label=password-strength-input">
 </a>
-<br />
 <a href="https://www.npmjs.com/package/mui-password-checklist"><img alt="NPM Downloads" src="https://img.shields.io/npm/dm/mui-password-checklist?label=mui-password-checklist">
 </a>
-<br />
  <a href="https://www.npmjs.com/package/validate-password-checklist"><img alt="NPM Downloads" src="https://img.shields.io/npm/dm/validate-password-checklist?label=validate-password-checklist">
 </a>
-<br />
 <a href="https://www.npmjs.com/package/password-checklist-input"><img alt="NPM Downloads" src="https://img.shields.io/npm/dm/password-checklist-input?label=password-checklist-input">
 </a>
-<br />
-
-
-<br />
+</p>
 
 <!-- Github Stats -->
 <h2>📈 Github Stats</h2>
