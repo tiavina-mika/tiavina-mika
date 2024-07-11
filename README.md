@@ -114,6 +114,7 @@
 		   <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-%20express?logo=flask&logoColor=%23fff&color=%23000000"></a>
 		   <a href="#"><img alt="Expo" src="https://img.shields.io/badge/Expo-%20express?logo=expo&logoColor=%23fff&color=%23000000"></a>
 		   <a href="#"><img alt="React" src="https://img.shields.io/badge/React-%20express?logo=react&logoColor=%23fff&color=%2361DAFB"></a>
+			<a href="#"><img alt="electron" src="https://img.shields.io/badge/Electron-%20electron?logo=electron&logoColor=%23fff&color=%2347848F"></a>
 	   </td>
 	</tr>
 	<tr height="54">
