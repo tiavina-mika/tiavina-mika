@@ -161,6 +161,7 @@
 		<td>
 			<a href="#"><img alt="jest" src="https://img.shields.io/badge/Jest-%20windows?logo=jest&logoColor=%23fff&color=%23C21325"></a>
 			<a href="#"><img alt="storybook" src="https://img.shields.io/badge/Storybook-%20storybook?logo=storybook&logoColor=%23fff&color=%23ff4785"></a>
+			<a href="#"><img alt="puppeteer" src="https://img.shields.io/badge/Puppeteer-%20puppeteer?logo=puppeteer&logoColor=%23fff&color=%2340B5A4"></a>
 	   </td>
 	</tr>
 	<tr height="54">
