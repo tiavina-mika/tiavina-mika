@@ -32,7 +32,7 @@
 <br />
 
 <!-- Packages -->
-<h2>✍ Packages I created</h2>
+<h2>✍ NPM Packages I created</h2>
 <table>
   <tr height="54">
     <th align="left">React</th>
