@@ -146,11 +146,17 @@
 	   </td>
 	</tr>
 	<tr height="54">
-		<th align="left">🧷 Webservices</th>
+		<th align="left">📎 Webservices</th>
 		<td>
 			<a href="#"><img alt="REST API" src="https://img.shields.io/badge/REST API-%20rest?logoColor=%23fff&color=%234285F4"></a>
 			<a href="#"><img alt="Parse Server" src="https://img.shields.io/badge/Parse Server-%20parse?logoColor=%23fff&color=%230078D4"></a>
 			<a href="#"><img alt="graphql" src="https://img.shields.io/badge/GraphQL-%20graphql?logo=graphql&logoColor=%23fff&color=%23E10098"></a>
+	   </td>
+	</tr>
+	  <tr height="54">
+		<th align="left">🏳 Testing</th>
+		<td>
+			<a href="#"><img alt="jest" src="https://img.shields.io/badge/Jest-%20windows?logo=jest&logoColor=%23fff&color=%15C213"></a>
 	   </td>
 	</tr>
 	<tr height="54">
