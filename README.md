@@ -34,24 +34,45 @@
 
 <!-- Packages -->
 <h2>✍ Packages I created</h2>
-<p align="left">
-<a href="https://www.npmjs.com/package/mui-tiptap-editor"><img alt="NPM Downloads" src="https://img.shields.io/npm/dm/mui-tiptap-editor?label=mui-tiptap-editor">
-</a>
-<a href="https://www.npmjs.com/package/tiptap-parser"><img alt="NPM Downloads" src="https://img.shields.io/npm/dm/tiptap-parser?label=tiptap-parser">
-</a>
-<a href="https://www.npmjs.com/package/check-password-complexity"><img alt="NPM Downloads" src="https://img.shields.io/npm/dm/check-password-complexity?label=check-password-complexity">
-</a>
-<a href="https://www.npmjs.com/package/mui-password-strength-input"><img alt="NPM Downloads" src="https://img.shields.io/npm/dm/mui-password-strength-input?label=mui-password-strength-input">
-</a>
-<a href="https://www.npmjs.com/package/password-strength-input"><img alt="NPM Downloads" src="https://img.shields.io/npm/dm/password-strength-input?label=password-strength-input">
-</a>
-<a href="https://www.npmjs.com/package/mui-password-checklist"><img alt="NPM Downloads" src="https://img.shields.io/npm/dm/mui-password-checklist?label=mui-password-checklist">
-</a>
- <a href="https://www.npmjs.com/package/validate-password-checklist"><img alt="NPM Downloads" src="https://img.shields.io/npm/dm/validate-password-checklist?label=validate-password-checklist">
-</a>
-<a href="https://www.npmjs.com/package/password-checklist-input"><img alt="NPM Downloads" src="https://img.shields.io/npm/dm/password-checklist-input?label=password-checklist-input">
-</a>
-</p>
+<table>
+  <tr height="54">
+    <th align="left">React</th>
+    <td>
+        <a href="https://www.npmjs.com/package/check-password-complexity"><img alt="NPM Downloads" src="https://img.shields.io/npm/dm/check-password-complexity?label=check-password-complexity"></a>
+        <a href="https://www.npmjs.com/package/password-checklist-input"><img alt="NPM Downloads" src="https://img.shields.io/npm/dm/password-checklist-input?label=password-checklist-input">
+        </a>
+      </td>
+  </tr>
+  <tr height="54">
+    <th align="left">Material UI</th>
+    <td>
+      <a href="https://www.npmjs.com/package/mui-tiptap-editor"><img alt="NPM Downloads" src="https://img.shields.io/npm/dm/mui-tiptap-editor?label=mui-tiptap-editor">
+      </a>
+      <a href="https://www.npmjs.com/package/mui-password-strength-input"><img alt="NPM Downloads" src="https://img.shields.io/npm/dm/mui-password-strength-input?label=mui-password-strength-input">
+      </a>
+      <a href="https://www.npmjs.com/package/mui-password-checklist"><img alt="NPM Downloads" src="https://img.shields.io/npm/dm/mui-password-checklist?label=mui-password-checklist">
+      </a>
+    </td>
+  </tr>
+  <tr height="54">
+    <th align="left">Javascript/Typescript</th>
+    <td>
+      <a href="https://www.npmjs.com/package/tiptap-parser"><img alt="NPM Downloads" src="https://img.shields.io/npm/dm/tiptap-parser?label=tiptap-parser">
+      </a>
+      <a href="https://www.npmjs.com/package/check-password-complexity"><img alt="NPM Downloads" src="https://img.shields.io/npm/dm/check-password-complexity?label=check-password-complexity">
+      </a>
+      <a href="https://www.npmjs.com/package/validate-password-checklist"><img alt="NPM Downloads" src="https://img.shields.io/npm/dm/validate-password-checklist?label=validate-password-checklist">
+      </a>
+    </td>
+  </tr>
+  <tr height="54">
+    <th align="left">NodeJs</th>
+    <td>
+      <a href="https://www.npmjs.com/package/esbuild-copy-files"><img alt="NPM Downloads" src="https://img.shields.io/npm/dm/esbuild-copy-files?label=esbuild-copy-files">
+      </a>
+    </td>
+  </tr>
+</table>
 
 <!-- Github Stats -->
 <h2>📈 Github Stats</h2>
