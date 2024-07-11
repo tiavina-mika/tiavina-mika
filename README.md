@@ -155,8 +155,12 @@
 	</tr>
 	  <tr height="54">
 		<th align="left">🏳 Testing</th>
+<!-- 		  			<td>
+			<a href="#"><img alt="jest" src="https://img.shields.io/badge/Storybook-%20storybook?logo=storybook&logoColor=%23fff&color=%ff4785"></a>
+	   </td> -->
 		<td>
-			<a href="#"><img alt="jest" src="https://img.shields.io/badge/Jest-%20windows?logo=jest&logoColor=%23fff&color=%15C213"></a>
+			<a href="#"><img alt="jest" src="https://img.shields.io/badge/Jest-%20windows?logo=jest&logoColor=%23fff&color=%23C21325"></a>
+			<a href="#"><img alt="storybook" src="https://img.shields.io/badge/Storybook-%20storybook?logo=storybook&logoColor=%23fff&color=%23ff4785"></a>
 	   </td>
 	</tr>
 	<tr height="54">
