@@ -266,8 +266,8 @@ By the creator of [Material UI](https://github.com/mui/mui-x/issues/513)
 
 <br />
 <h2>📖 I am currently reading</h2>
-<a href="https://www.goodreads.com/user/show/172512891?ref=nav_profile_l">
-	<img width="200" alt="book" src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1449484060i/28115821.jpg" />
+<a href="https://www.goodreads.com/book/show/18050143-zero-to-one">
+	<img width="200" alt="book" src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1630663027i/18050143.jpg" />
 </a>
 
 <br />
