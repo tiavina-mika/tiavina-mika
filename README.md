@@ -69,7 +69,7 @@
     <td>
       <a href="https://www.npmjs.com/package/esbuild-copy-files"><img alt="NPM Downloads" src="https://img.shields.io/npm/dm/esbuild-copy-files?label=esbuild-copy-files">
 	</a>
-      <a href="https://www.npmjs.com/package/eslint-plugin-external-import-esm"><img alt="NPM Downloads" src="https://img.shields.io/npm/dm/eslint-plugin-external-import-esm.svg">
+      <a href="https://www.npmjs.com/package/eslint-plugin-external-import-esm"><img alt="NPM Downloads" src="https://img.shields.io/npm/dm/eslint-plugin-external-import-esm?label=eslint-plugin-external-import-esm">
 	  </a>
     </td>
   </tr>
@@ -189,19 +189,6 @@
 	   </td>
 	</tr>
  </table>
-
-<!-- Materials -->
-<br />
-<h2>🏗 Materials</h2>
-<ul>
-	 <li>💻 ASUS Rog G751, i7-4710HQ, 16Go 256Go SSD+1To HDD, Nvidia GeForce GTX 970M, 17", Windows 10</li>
-	 <li>🖥 i5-9400F, 16Go 256Go SSD+1To HDD, Nvidia GeForce GTX 1080Ti, 32", Windows 11</li>
-	 <li>🖥 Mac Mini, i5-8000, 16Go 256Go SSD, 23", macOS Catalina</li>
-	 <li>📱 iPhone X, Apple</li>
-	 <li>📱 Android 12, Xiami Redmi </li>
-	 <li>🥅 1500W, 200Ah Battery storage (against power outages)</li>
-	 <li>🗼 Fiber optics for high-speed internet connection</li>
-</ul>
 
 <!-- Daily Coding Stats -->
 <br />
