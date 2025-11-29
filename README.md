@@ -68,7 +68,9 @@
     <th align="left">NodeJs</th>
     <td>
       <a href="https://www.npmjs.com/package/esbuild-copy-files"><img alt="NPM Downloads" src="https://img.shields.io/npm/dm/esbuild-copy-files?label=esbuild-copy-files">
-      </a>
+	</a>
+      <a href="https://www.npmjs.com/package/eslint-plugin-external-import-esm"><img alt="NPM Downloads" src="https://img.shields.io/npm/dm/eslint-plugin-external-import-esm?label=eslint-plugin-external-import-esm">
+	  </a>
     </td>
   </tr>
 </table>
